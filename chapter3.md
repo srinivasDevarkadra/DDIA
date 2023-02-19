@@ -1,0 +1,1 @@
+[Chapter 3 - Storage and Retrieval](https://timilearning.com/posts/ddia/part-one/chapter-3/)
