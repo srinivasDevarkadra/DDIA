@@ -19,11 +19,6 @@
     <main class="tmpl-post">
       <!-- capture the JS content as a Nunjucks variable -->
 
-<!-- feed it through our jsmin filter to minify -->
-<script>
-  const processSubscribeForm=e=>{const r=new FormData(e);console.log("Email entered"),r.append("form-name","newsletter"),fetch("/",{method:"POST",body:r}).then((()=>{e.innerHTML='<div class="subscribe-form--success">Almost there! Check your inbox for a confirmation e-mail.</div>'})).catch((r=>{e.innerHTML=`<div class="form--error">Error: ${r}</div>`}))},emailForm=document.querySelector(".subscribe-form");emailForm&&emailForm.addEventListener("submit",(e=>{e.preventDefault(),processSubscribeForm(emailForm)}));
-</script>
-
 
 <h1>Chapter 5 - Replication</h1>
  
