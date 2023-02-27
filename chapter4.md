@@ -1,23 +1,8 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chapter 5 - Replication</title>
-    <meta name="Description" content="My notes from the fifth chapter of Martin Kleppmann's book: Designing Data Intensive Applications.">
-    <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-material-oceanic.css">
-    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Timilearning - A blog by Timi Adeniran">
-  </head>
+<html lang="en"
   <body>
-    <header>
-      <h3 class="home"><a href="/">Timilearning</a></h3>
-        <ul class="nav"><li class="nav-item"><a href="/about/">About</a>
-          </li>
-            <span class="mid-dot">  </span></ul>
-    </header>
 
     <main class="tmpl-post">
-      <!-- capture the JS content as a Nunjucks variable -->
 
 
 <h1>Chapter 5 - Replication</h1>
