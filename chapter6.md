@@ -1,6 +1,6 @@
 <html lang="en"><head>
 
-
+[Original author website and All Credits](https://timilearning.com/posts/ddia/part-one/chapter-3/)
 
 <h1>Chapter 6 - Partitioning</h1>
  
